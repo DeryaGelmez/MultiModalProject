@@ -1,0 +1,315 @@
+[1] Tekrar Görsel Hash: 34c8ced89ca44363
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Black Lagoon 1 - Rei Hiroe.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Black Lagoon Cilt 1 - Rei Hiroe.jpg
+
+[2] Tekrar Görsel Hash: d0d60fce63af2624
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Hellboy-Zincirli Tabut 3 - Mike Mignola.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Hellboy-Şeytanı Uyandır 2 - Mike Mignola.jpg
+
+[3] Tekrar Görsel Hash: d0b27260eca2b272
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Junji İto - Mimi'nin Dehşet Öyküleri (Bez Ciltli) - Junji İto.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Mimi'nin Dehşet Öyküleri - Bez Ciltli - Hirokatsu Kihara.jpg
+
+[4] Tekrar Görsel Hash: 69cd29393373734f
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Nasıl Prenses Oldum 5 - Plutus.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Nasıl Prenses Oldum 6 - Plutus.jpg
+
+[5] Tekrar Görsel Hash: 3b43ee8cab5996b1
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Otisabi - Manga Serisi 3 - Yılmaz Aslantürk.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Otisabi Manga Serisi Cilt 3 - Yılmaz Aslantürk.jpg
+
+[6] Tekrar Görsel Hash: c0e05214ab6b95bc
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Otisabi - Manga Serisi 4 - Yılmaz Aslantürk.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Otisabi Manga Serisi Cilt 4 - Yılmaz Aslantürk.jpg
+
+[7] Tekrar Görsel Hash: 319e6e8d4e5e2ec3
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Alfa Yayınları Simone de Beauvoir (Çizgi Roman) Rahatsızlık Veren Genç Kız - Sophie Carquain.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Rahatsızlık Veren Genç Kız - Simone De Beauvoir.jpg
+
+[8] Tekrar Görsel Hash: 43d11d1951536232
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Satürn Evleri - 5 - [Yazar] Hisae İvaoka[Çevirmen] NİLAY Çalşimşek.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Satürn Evleri 5. Cilt - Hisae Ivaoka.jpg
+
+[9] Tekrar Görsel Hash: 6060f1f1c6ecb2ea
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Kıyamet Meleği 22. Cilt - Takaya Kagami.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Seraph of the End 22 - Kıyamet Meleği - Takaya Kagami.jpg
+
+[10] Tekrar Görsel Hash: 090f1d191d151569
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Tex Efsane 3 - Kızılderili İntikamı - Vahşi İntikam Ölüm Haçı - Giovanni Luigi Bonelli.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Tex Özel Albüm Sayı 3 Yılan İşareti - Aurelio Galleppini.jpg
+
+[11] Tekrar Görsel Hash: f7dbef73532b0b0e
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Titana Saldırı - 3 - Hajime İsayama.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Titana Saldırı 3 - Hajime İsayama.jpg
+
+[12] Tekrar Görsel Hash: 0f1b973373430f1b
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Tenten'in Maceraları 18 - Turnusol Olayı - Herge.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Turnusol Olayı - Tenten'in Maceraları - Herge.jpg
+
+[13] Tekrar Görsel Hash: ac9088c898b1e398
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Tuvalet Hayaleti Hanako - Kun 4.Cilt - Aidairo.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Tuvalet Hayaleti Hanako-Kun 4. Cilt - Aidairo.jpg
+
+[14] Tekrar Görsel Hash: 3d9cb4c6ccccaa6a
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Vinland Saga Vinland Destanı 5 - Makoto Yukimura.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Winland Saga - Vinland Destanı 5 - Makoto Yukimura.jpg
+
+[15] Tekrar Görsel Hash: c4c99cdccedad9b1
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Winx Club # 7 - Cadılar Okulu - Iginio Straffi.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Winx Club 7. Sayı Cadılar Okulu - Iginio Straffi.jpg
+
+[16] Tekrar Görsel Hash: 4cd8b82868646c32
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Wolverine Son - Paul Jenkins.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Wolverine-Son - Paul Jenkins.jpg
+
+[17] Tekrar Görsel Hash: 4c352d3234440888
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Iron Man Cilt 4 Stark Parçalandı - Matt Fraction.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Yenilmez Demir Adam  İronman - Stark Parçalandı Cilt 4 - Matt Fraction.jpg
+
+[18] Tekrar Görsel Hash: 473b99ec59c29b39
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Zagor Kökler Sayı 1 - Clear Water - Moreno Burattini.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çizgi Roman\Zagor Kökler Sayı 1 - Moreno Burattini.jpg
+
+[19] Tekrar Görsel Hash: 481821083136d428
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Atlas (Ciltli) Kıtalar, Denizler ve Kültürler Arası Yolculuk Rehberi - Daniel Mizielinski.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Atlas Kıtalar-Denizler-Kültürler Arası Yolculuk Rehberi - Aleksandra Mizielinska.jpg
+
+[20] Tekrar Görsel Hash: cc909ce4ecf892a0
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Isadora Moon 14 Isadora Moon ve Kayanyıldız - Harriet Muncaster.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Isadora Moon ve Kayanyıldız - Harriet Muncaster.jpg
+
+[21] Tekrar Görsel Hash: 3159451519491901
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Levent İz Peşinde - 5 Kitap Takım - Mustafa Orakçı.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\LEVENT İZ PEŞİNDE SET - Mustafa Orakçı.jpg
+
+[22] Tekrar Görsel Hash: 676675672635432f
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Sobece Sosyal Beceri Çocuk Eğitimi Seti - 6 Kitap Takım - Aygün Tuçe Ataş.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Sobece-Sosyal Beceri Çocuk Eğitimi Seti-6 Kitap Takım - Aygün Tuçe Ataş.jpg
+
+[23] Tekrar Görsel Hash: 6939250529256d6d
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Oyun Takvimi - Her Güne Bir Oyun - Şermin Yaşar.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\İmzalı-Oyun Takvimi 2018-Her Güne Bir Oyun - Şermin Yaşar.jpg
+
+[24] Tekrar Görsel Hash: 4d4d0770d031b930
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Baştan Çıkarmanın Gücü - Tutku Mühürlü - Tuğçe Işınsu.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Baştan Çıkarmanın Gücü - Tuğçe Işınsu.jpg
+
+[25] Tekrar Görsel Hash: c4765a515d35ed99
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Anne Beni İyileştir - M. Barış Muslu.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Anne Beni İyileştir - M. Barış Muslu.jpg
+
+[26] Tekrar Görsel Hash: 17332b2bc4963b4c
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Benim Bütün Hayallerim Gerçek Olur - Ayşe Tolga.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Benim Bütün Hayallerim Gerçek Olur - Ayşe Tolga.jpg
+
+[27] Tekrar Görsel Hash: 2b3b33bbf8fcf0f1
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Bereket Sende - Yaşamınızın Her Alanına Bereketi Getiren 7 Yol - Ayşe Tolga.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Bereket Sende - Yaşamınızın Her Alanına Bereketi Getiren 7 Yol - Ayşe Tolga.jpg
+
+[28] Tekrar Görsel Hash: 4b9fb69e17739698
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Griden Beyaza - Başarmak İsteyen Bütün Öğrencilere - Gökhan Müftüoğlu.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Griden Beyaza - Başarmak İsteyen Bütün Öğrencilere - Gökhan Müftüoğlu.jpg
+
+[29] Tekrar Görsel Hash: 0f33f2c870e14b0a
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Hani Ayrılıklar da Sevdaya Dahildi - Ziya Ünlütürk.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Hani Ayrılıklar da Sevdaya Dahildi - Ziya Ünlütürk.jpg
+
+[30] Tekrar Görsel Hash: 68b4f6b193e19ed4
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Hayat En Çok İyileri Kırar - Kırıldığımız Yerden Güçlenmenin Yolları - Acar Baltaş.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Hayat En Çok İyileri Kırar - Kırıldığımız Yerden Güçlenmenin Yolları - Acar Baltaş.jpg
+
+[31] Tekrar Görsel Hash: 371393ed8e9ecfab
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Kalbi İyi Olanın Yolu Zordur - Miraç Çağrı Aktaş.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Kalbi İyi Olanın Yolu Zordur - Miraç Çağrı Aktaş.jpg
+
+[32] Tekrar Görsel Hash: 07d4f0ccc8707113
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Merdümgiriz Dönüş - Yenilen - İyileş - Aşkım Kapışmak.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Merdümgiriz Dönüş - Yenilen - İyileş - Aşkım Kapışmak.jpg
+
+[33] Tekrar Görsel Hash: 317375355971496c
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Rota Hesaplanıyor - Kendine Dönüş Başladı - Sibel Uzun.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Rota Hesaplanıyor - Kendine Dönüş Başladı - Sibel Uzun.jpg
+
+[34] Tekrar Görsel Hash: bc3ea6fc38168aaa
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Var mısın - Güçlü Bir Yaşam İçin Öneriler - Doğan Cüceloğlu.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Var mısın - Güçlü Bir Yaşam İçin Öneriler - Doğan Cüceloğlu.jpg
+
+[35] Tekrar Görsel Hash: 00e096964c140d39
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Yaşamak Sakinlik İster - Özgür Bacaksız.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Yaşamak Sakinlik İster - Özgür Bacaksız.jpg
+
+[36] Tekrar Görsel Hash: 78dcf0f8cc70b3ed
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Zafer Sızlanarak Kazanılmaz - Haluk Tatar.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Zafer Sızlanarak Kazanılmaz - Haluk Tatar.jpg
+
+[37] Tekrar Görsel Hash: 231f0c4d164e4d0d
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Üç 21 Kuralı Şifa Ritüelleri - Aşkım Kapışmak.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - Üç 21 Kuralı Şifa Ritüelleri - Aşkım Kapışmak.jpg
+
+[38] Tekrar Görsel Hash: e4d29868649e9489
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Evliyalar ve Yücelerle Yaşamak - Aşka Yürü - Can Kağan.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı Aşka Yürü - Can Aydoğmuş.jpg
+
+[39] Tekrar Görsel Hash: 686032f1f0f0f1cd
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Her Şey Değişir - Ritüeller Kitabı - Anette Inselberg.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı-Her Şey Değişir-Ritüeller Kitabı - Anette Inselberg.jpg
+
+[40] Tekrar Görsel Hash: 072369dc9c9c4d4d
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı - İnsan Geleceğini Nasıl Kurar - İlber Ortaylı.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İnsan Geleceğini Nasıl Kurar - İlber Ortaylı.jpg
+
+[41] Tekrar Görsel Hash: 1a172b0f96332bed
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İmzalı-İyi Düşün - Serhat Yabancı.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İyi Düşün - Serhat Yabancı.jpg
+
+[42] Tekrar Görsel Hash: f0f0f0f0f0f0f0f0
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Mirasımız Hologenetik Hafıza - Kozmik Aile Düzeni - Billur Bahman Memmedli.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\İyi Yaşamak - İnal Aydınoğlu.jpg
+
+[43] Tekrar Görsel Hash: 03293b0b0bc62531
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - Altın Üçgen - Maurce Leblang.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - Esrarengiz Ev - Klasik Polisiye Serisi - Maurice Leblanc.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - İki Yüzlü Kadın - Maurice Leblanc.jpg
+
+[44] Tekrar Görsel Hash: 03293b030bc62531
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - Müfettiş Barnett - Maurice Leblanc.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - Obüs Patlaması - Maurce Leblang.jpg
+
+[45] Tekrar Görsel Hash: 03293b330bc62531
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen - 813 - Maurce Leblang.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen Yeşil Gözlü Genç Kız - Klasik Polisiye Serisi - Maurice Leblanc.jpg
+
+[46] Tekrar Görsel Hash: c0e4c9d3c2c4c70b
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lüpen - Kristal Tıpa - Maurice Leblanc.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lüpen - Sekiz Yüz On Üç - Maurice Leblanc.jpg
+
+[47] Tekrar Görsel Hash: 3676f130e8f01231
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lüpen-Herlock Sholmes'e Karşı - Maurice Leblanc.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lüpen-Oyuk İğne - Maurice Leblanc.jpg
+
+[48] Tekrar Görsel Hash: 2b2b2b2b33333333
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arka Sokaktaki Cinayet - Agatha Christie.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Cenazeden Sonra - Agatha Christie.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Halide Edib Türk Modernleşmesi ve Feminizm - Ayşe Durakbaşa.jpg
+
+[49] Tekrar Görsel Hash: ccececc4c108fee8
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Agatha Christie Doğu Ekspresinde Cinayet (tam Boy 256 Sayfa ) - Agatha Christie.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Doğu Ekspresi'nde Cinayet - Agatha Christie.jpg
+
+[50] Tekrar Görsel Hash: 0e1bfcae1c1f2fd4
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Dönüm Noktası - Komiser Montalbano Serisi 7 - Andrea Camilleri.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Dönüm Noktası Komiser Montalbano Serisi-7 - Andrea Camilleri.jpg
+
+[51] Tekrar Görsel Hash: c4933e79f2e6b24c
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Alfa Yayınları Kan Yağmuru Bir Komiser Zen Macerası 7 - Michael Dibdin.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Kan Yağmuru - Bir Dedektif Zen Polisiyesi 7 - Michael Dibdin.jpg
+
+[52] Tekrar Görsel Hash: 3139796159253533
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Kardan Adamın Külleri - Kutulu Set - Işıl Işık.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Kardan Adamın Külleri Kutulu Set (Ciltli) - Işıl Işık.jpg
+
+[53] Tekrar Görsel Hash: f2eaeab3a1edf9b6
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes - Korku Vadisi - Sir Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes - Yaralı Yüz - Sir Arthur Conan Doyle.jpg
+
+[54] Tekrar Görsel Hash: 69351949212b2a2a
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes Seçme Hikayeler Cilt 1 - Minyatür Kitaplar Serisi - Sir Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes Seçme Hikayeler Cilt 2 - Minyatür Kitaplar Serisi - Sir Arthur Conan Doyle.jpg
+
+[55] Tekrar Görsel Hash: 1c161e3e3d243838
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes'un Maceraları 1 - Livaneli Kitaplığı - Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes'un Maceraları 2 - Livaneli Kitaplığı - Arthur Conan Doyle.jpg
+
+[56] Tekrar Görsel Hash: 6b332b692b2b2b2b
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Kızıl Dosya - [Yazar] Arthur Conan Doyle[Çevirmen] Aslıhan Kuzucan.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Kızıl Dosya - Sir Arthur Conan Doyle.jpg
+
+[57] Tekrar Görsel Hash: 62669b9b4c4b9acc
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Sherlock Holmes'ün Anıları - Sir Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Sherlock Holmes'ün Dava Defteri - Sir Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Sherlock Holmes'ün Dönüşü - Sir Arthur Conan Doyle.jpg
+
+[58] Tekrar Görsel Hash: deb4c2878c98f0c0
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Gölge Adam - Sir Arthur Conan Doyle.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Sherlock Holmes-Ölüm Vadisi - Sir Arthur Conan Doyle.jpg
+
+[59] Tekrar Görsel Hash: 868a59133b84f62c
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Martin Beck Serisi 10 - Teröristler (Kapak Resmi değişebilir) - Per Wahlöö.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Teröristler - Martin Beck Serisi 10 - Maj Sjöwall.jpg
+
+[60] Tekrar Görsel Hash: d949f45447476d7d
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Arsen Lupen Seçme Eserler - Özel Basım - Maurice Leblanc.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Tweet Arsen Lüpen Seçme Eserler Özel Basım (Ciltli) - Maurice Leblanc.jpg
+
+[61] Tekrar Görsel Hash: 317be6e4f8c0f46e
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Kayıp Tanrılar Ülkesi - Ahmet Ümit.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\İmzalı - Kayıp Tanrılar Ülkesi - Ahmet Ümit.jpg
+
+[62] Tekrar Görsel Hash: 8ab2c8e0796b22ac
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Ona Kadar Say - Saklambaç (Ciltli) - Işıl Işık.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\İmzalı - Ona Kadar Say - Saklambaç - Işıl Işık.jpg
+
+[63] Tekrar Görsel Hash: eaa0bce8e70d6d13
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Antika Titanik - Murat Menteş.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\İmzalı-Antika Titanik - Murat Menteş.jpg
+
+[64] Tekrar Görsel Hash: 351b8726231b372a
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Karanlık Çarşamba - Erhan Çelik.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\İmzalı-Karanlık Çarşamba - Erhan Çelik.jpg
+
+[65] Tekrar Görsel Hash: 2b2b2b2b3b332b33
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Köpek Adam- İki Kediciğin Hikayesi Dog Man A Tale Of Two Kitties - Dav Pilkey.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Şahidin Gözleri - Agatha Christie.jpg
+
+[66] Tekrar Görsel Hash: 52504f6f659c5930
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Anadolu Uygarlıkları - Kültür Mimari ve Yaşam - Oğuzhan Karadirek.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Anadolu Uygarlıkları Kültür Mimari ve Yaşam - Oğuzhan Karadirek.jpg
+
+[67] Tekrar Görsel Hash: 2b2b2b2b2b272333
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Jurnal 1. Cilt Bütün Eserleri - 1 - Cemil Meriç.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Mağaradakiler Bütün Eserleri - 8 - Cemil Meriç.jpg
+
+[68] Tekrar Görsel Hash: 14270d63e0d33ad8
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Polisiye\Azazel Bir Erast Fandorin Romanı - Boris Akunin.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Osmanlı Zanaatkarları İmparatorluk Döneminde Zanaatlar ve Loncalar - Suraiya Faroqhi.jpg
+
+[69] Tekrar Görsel Hash: 4eeca79fdbc98c3c
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Sovyet - Japon Savaşı-Stalin_in Uzak Doğu Seferi - Charles Stephenson.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Sovyet-Japon Savaşı Stalin’in Uzak Doğu Seferi - Charles Stephenson.jpg
+
+[70] Tekrar Görsel Hash: e4c8d8ce9e96d2b4
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Türkiye_de Siyasal Partiler Cilt 2 - Mütareke Dönemi - Tarık Zafer Tunaya.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Türkiye’de Siyasal Partiler Cilt-2 Mütareke Dönemi - Tarık Zafer Tunaya.jpg
+
+[71] Tekrar Görsel Hash: 94f1fca286ecea11
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Yalan Radarı - İşte Evde ve Aşkta 5 Adımda Yalanı Yakala - Oğuz Benlioğlu.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Yalan Radarı İşte, Evde ve Aşkta 5 Adımda Yalanı Yakala - Oğuz Benlioğlu.jpg
+
+[72] Tekrar Görsel Hash: 555569554d555555
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Kişisel Gelişim\Yeni Dünya Yeni Kurallar - Yaşam Zevkine Ulaşmanın Bugünkü Yolları - Vedat Milor.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Yeni Dünya Yeni Kurallar Yaşam Zevkine Ulaşmanın Bugünkü Yolları - Vedat Milor.jpg
+
+[73] Tekrar Görsel Hash: c47028499448f197
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Dakikalar İçinde İkinci Dünya Savaşı - R. G. Grant.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İkinci Dünya Savaşı - Dakikalar İçinde - R. G. Grant.jpg
+
+[74] Tekrar Görsel Hash: 0461b4e4680ed5cc
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Milli İstihbarat Teşkilatı 1826-2023 - Polat Safi.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İmzalı - Milli İstihbarat Teşkilatı 1826-2023 - Polat Safi.jpg
+
+[75] Tekrar Görsel Hash: 1949690f9cf97154
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Türklerin Büyükleri-Asya_dan Avrupa_ya Hazar_dan Akdeniz_e - İlber Ortaylı.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İmzalı-Türklerin Büyükleri-Asya_dan Avrupa_ya Hazar_dan Akdeniz_e - Mustafa Alican.jpg
+
+[76] Tekrar Görsel Hash: cacad0e6e289e2f6
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Yakın Tarihin Kara Delikleri - Küller Altında Yakın Tarih 2 - Mustafa Armağan.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İmzalı-Yakın Tarihin Kara Delikleri - Küller Altında Yakın Tarih 2 - Mustafa Armağan.jpg
+
+[77] Tekrar Görsel Hash: 9a8e4ec2ec8c3076
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\Yüzyılın Kitabı-Yüzyılın Lideri - Sinan Meydan.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İmzalı-Yüzyılın Kitabı Yüzyılın Lid - Sinan Meydan.jpg
+
+[78] Tekrar Görsel Hash: 232b2b2b2b2b2b33
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Çocuk\Televizyon Öldüren Eğlence Gösteri Çağında Kamusal Söylem - Neil Postman.jpg
+    - C:\Users\derya\Desktop\MachineLearning2\Datas\Tarih\İslamdan Dönenler ve Yalancı Peygamberler - Bahriye Üçok.jpg
+
